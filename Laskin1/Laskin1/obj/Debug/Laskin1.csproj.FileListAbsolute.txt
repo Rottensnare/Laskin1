@@ -1,0 +1,10 @@
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\bin\Debug\Laskin1.exe.config
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\bin\Debug\Laskin1.exe
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\bin\Debug\Laskin1.pdb
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.csprojAssemblyReference.cache
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.Form1.resources
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.Properties.Resources.resources
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.GenerateResource.cache
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.CoreCompileInputs.cache
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.exe
+C:\Users\Rotte\source\repos\Laskin1\Laskin1\obj\Debug\Laskin1.pdb
